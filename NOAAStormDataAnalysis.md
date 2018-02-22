@@ -318,7 +318,7 @@ p4 <- p4 + guides(fill=guide_legend(title="Cusualty Type"))
 p4
 ```
 
-![](NOAAStormDataAnalysis_files/figure-html/Plot Population Health Effect-1.png)<!-- -->
+![](NOAAStormDataAnalysis_files/figure-html/Plot_Population_Health_Effect-1.png)<!-- -->
 
 ### 3.2 Across the United States, which types of events have the greatest economic consequences?
 
@@ -338,7 +338,7 @@ p4 <- p4 + guides(fill=guide_legend(title="Loss Type"))
 p4
 ```
 
-![](NOAAStormDataAnalysis_files/figure-html/Plot Economic Loss for Property and Crops-1.png)<!-- -->
+![](NOAAStormDataAnalysis_files/figure-html/Plot_Economic_Loss_for_Property_and_Crops-1.png)<!-- -->
 
 
 ### 4. Summary
